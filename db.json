@@ -58,5 +58,12 @@
         "path": "TD_2513_0001.tif.xml"
       }
     ]
-  }
+  },
+    "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+
 }
