@@ -1,14 +1,56 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "317324": [{
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "XML",
+            "path": "TD_2513.xml"
+        }, {
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "ICC",
+            "path": "TD_2513_0001.icc"
+        }, {
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "JP2K",
+            "path": "TD_2513_0001.jp2"
+        }, {
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "JP2K",
+            "path": "TD_2513_0001.jp2.xml"
+        },
+		{
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "JP2K",
+            "path": "TD_2513_0001.tfw"
+        },
+		{
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "JP2K",
+            "path": "TD_2513_0001.tif"
+        },
+		{
+            "folder_id": "317324",
+            "task_id": "603",
+            "file_id": "8157661",
+            "orderInFolder": "1",
+            "description": "JP2K",
+            "path": "TD_2513_0001.tif.xml"
+        }
+    ]
 }
