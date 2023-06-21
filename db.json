@@ -58,13 +58,5 @@
         "path": "TD_2513_0001.tif.xml"
       }
     ]
-  },
-  "SendValidationInfo": {
-    "msg": {
-      "isSuccess": true,
-      "errorString": "",
-      "folder_id": 317460,
-      "task_id": 603
-    }
   }
 }
