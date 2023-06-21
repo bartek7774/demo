@@ -1,67 +1,70 @@
 {
-	"files":{
-    "317324": [{
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "XML",
-            "path": "TD_2513.xml"
-        }, {
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "ICC",
-            "path": "TD_2513_0001.icc"
-        }, {
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "JP2K",
-            "path": "TD_2513_0001.jp2"
-        }, {
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "JP2K",
-            "path": "TD_2513_0001.jp2.xml"
-        },
-		{
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "JP2K",
-            "path": "TD_2513_0001.tfw"
-        },
-		{
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "JP2K",
-            "path": "TD_2513_0001.tif"
-        },
-		{
-            "folder_id": "317324",
-            "task_id": "603",
-            "file_id": "8157661",
-            "orderInFolder": "1",
-            "description": "JP2K",
-            "path": "TD_2513_0001.tif.xml"
-        }
+  "GetByFolder": {
+    "317324": [
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "XML",
+        "path": "TD_2513.xml"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "ICC",
+        "path": "TD_2513_0001.icc"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "JP2K",
+        "path": "TD_2513_0001.jp2"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "JP2K",
+        "path": "TD_2513_0001.jp2.xml"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "JP2K",
+        "path": "TD_2513_0001.tfw"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "JP2K",
+        "path": "TD_2513_0001.tif"
+      },
+      {
+        "folder_id": "317324",
+        "task_id": "603",
+        "file_id": "8157661",
+        "orderInFolder": "1",
+        "description": "JP2K",
+        "path": "TD_2513_0001.tif.xml"
+      }
     ]
-	},
-	"sendValidationInfo":{
-		    "msg": {
-        "isSuccess": true,
-        "errorString": "",
-        "folder_id": 317460,
-        "task_id": 603
+  },
+  "SendValidationInfo": {
+    "msg": {
+      "isSuccess": true,
+      "errorString": "",
+      "folder_id": 317460,
+      "task_id": 603
     }
-}
-	}
+  }
 }
