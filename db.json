@@ -1,13 +1,5 @@
 {
-    "SendValidationInfo": {
-    "msg": {
-      "isSuccess": true,
-      "errorString": "",
-      "folder_id": 317460,
-      "task_id": 603
-    }
-  },
-      "GetByFolder": {
+  "GetByFolder": {
     "317324": [
       {
         "folder_id": "317324",
